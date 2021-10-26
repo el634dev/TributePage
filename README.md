@@ -1,4 +1,4 @@
-# TributePage
+# Tribute Page
 Created to gain practice with using HTML & CSS
 # Dev Dependencies
 HTML, CSS, Prettier+, ESLint
